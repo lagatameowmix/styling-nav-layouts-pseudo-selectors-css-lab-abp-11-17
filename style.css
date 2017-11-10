@@ -76,3 +76,8 @@ nav a:hover{
 .questions {
   padding: 0 20px 0 20px;
 }
+
+.questions h4{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
